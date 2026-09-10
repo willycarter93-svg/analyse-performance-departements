@@ -4,14 +4,14 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 
-> **Une analyse statistique complète pour valider les différences de performance et de satisfaction entre départements d'une entreprise.**
+**Une analyse statistique complète pour valider les différences de performance et de satisfaction entre départements d'une entreprise.**
 
 
 ## Résumé exécutif
 
 Cette étude analyse **100 000 employés** répartis dans **9 départements** pour répondre à une question métier simple :
 
-> *"Les écarts de performance observés entre départements sont-ils réels ou dus au hasard ?"*
+*"Les écarts de performance observés entre départements sont-ils réels ou dus au hasard ?"*
 
 **Verdict** : Les performances sont **statistiquement homogènes**, mais **Customer Support** présente une satisfaction significativement plus faible.
 
